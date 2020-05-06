@@ -1,0 +1,10 @@
+scene_0/sample_0/CAM_FRONT.jpeg
+scene_0/sample_0/CAM_BACK.jpeg
+scene_0/sample_0/CAM_FRONT_LEFT.jpeg
+scene_0/sample_0/CAM_FRONT_RIGHT.jpeg
+scene_0/sample_0/CAM_BACK_LEFT.jpeg
+scene_0/sample_0/CAM_BACK_RIGHT.jpeg
+scene_0/sample_1/CAM_FRONT.jpeg
+scene_0/sample_1/CAM_BACK.jpeg
+scene_0/sample_1/CAM_FRONT_LEFT.jpeg
+scene_0/sample_1/CAM_FRONT_RIGHT.jpeg
